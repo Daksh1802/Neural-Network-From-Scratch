@@ -19,6 +19,7 @@ This project is a **fully functional neural network** built entirely from scratc
   
 
 👨‍💻 Author
+
 Built by Daksh Perswal
 
 
