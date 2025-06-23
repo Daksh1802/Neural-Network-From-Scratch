@@ -12,6 +12,12 @@ This project is a **fully functional neural network** built entirely from scratc
 - Manual weight and bias updates
 - Fully written using only Python built-ins
 
+ ## 📚 Future Improvements
+
+ -Backword propogation
+ -Optimization
+  
+
 👨‍💻 Author
 Built by Daksh Perswal
 
