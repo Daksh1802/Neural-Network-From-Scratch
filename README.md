@@ -10,7 +10,7 @@ This project is a **fully functional neural network** built entirely from scratc
 - Custom activation functions (ReLU, Softmax, etc.)
 - Train on simple datasets
 - Manual weight and bias updates
-- Fully written using only Python built-ins
+- Fully written using only Python built-ins (Used numpy in the later files for better readability but still everything is from scratch wherever i used  Numpy i have done that using just raw python in the previous files)
 
  ## 📚 Future Improvements
 
