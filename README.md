@@ -14,8 +14,10 @@ This project is a **fully functional neural network** built entirely from scratc
 
  ## 📚 Future Improvements
 
- -Backword propogation
- -Optimization
+ - Forward propagation
+- Custom activation functions (ReLU, Softmax, etc.)
+ - Backword propogation
+ - Optimization
   
 
 👨‍💻 Author
